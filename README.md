@@ -34,7 +34,7 @@ Keep track of your schedule and important events with the full-featured calendar
 - Node.js and npm installed on your system.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/yourusername/admin-dashboard.git`
+1. Clone the repository: `git clone https://github.com/MohamedYasser343/admin-dashboard.git`
 2. Navigate to the project folder: `cd admin-dashboard`
 3. Install dependencies: `npm install`
 
